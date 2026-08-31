@@ -60,12 +60,19 @@ body * {
   color: var(--text-color);
 }
 
-#container {
+#container { 
   width: 100%;
   max-width: 588px;
-  padding: 0 24px;
-  margin: 56px auto 0px auto;
+  margin: 0 auto;
+  padding: 56px 24px 24px; /* Espaçamento equilibrado no topo e na base */
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Empurra o rodapé para o final da tela do celular */
 }
+  
+
 
 #profile {
   text-align: center;
