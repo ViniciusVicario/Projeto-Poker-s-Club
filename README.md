@@ -1,17 +1,46 @@
-# Poker's Club - Links & Dark Mode
+<h1 align="center"> Poker's Club Links </h1>
 
-Projeto de uma página de links interativa (Linktree) com alternância de tema claro/escuro.
+<p align="center">
+Página agregadora de links oficial do Poker's Club, desenvolvida com alternância de tema claro/escuro.
+</p>
 
-## 🚀 Tecnologias
+<!--
+<p align="center"> 
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-acesso">Acesso Online</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+-->
 
-- HTML5
-- CSS3 (Variáveis CSS, Flexbox, Layout Responsivo)
-- JavaScript (DOM, Toggle de classes)
+<p align="center">
+  <img alt="Preview Poker's Club" src="./Png/avatar.png" width="160px" style="border-radius: 50%;">
+  <br> Poker´s Club Oficial <br>
+</p> 
 
-## 💻 Projeto
+##  Tecnologias
 
-A página reúne links sociais e botões de ação para o clube de pôquer, permitindo alternar a paleta de cores entre o modo escuro e claro através de um switch interativo.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## 🔗 Link do projeto
+- HTML
+- CSS (CSS, Flexbox, Layout Responsivo)
+- JavaScript (Manipulação do DOM e alternância de temas)
+- Git e GitHub
+- Figma
 
-[Clique aqui para acessar o projeto online](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)
+##  Projeto
+
+O **Poker's Club Links** é um agregador de links personalizado (estilo Linktree) criado para reunir os canais sociais e pontos de contato do clube de pôquer, permitindo alternar de forma interativa entre o modo escuro e claro por meio de um switch customizado.
+
+##  Acesso Online
+
+Você pode visualizar e testar o projeto funcionando diretamente pelo navegador:
+
+- [Acessar Poker's Club Online](https://ViniciusVicario.github.io/Projeto-Poker-s-Club/)
+
+##  Licença
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com dedicação para o **Poker's Club**! 
