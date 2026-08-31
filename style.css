@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+html, body {
+  min-height: 100%;
+}
+
 body {
   /*
   background-image: url(./Png/FUNDOO.avif);
@@ -14,6 +18,7 @@ body {
   /*background: image repeat position/size */
   background: var(--bg-url) no-repeat top center/cover;
   min-height: 100vh;
+  background-attachment: fixed;
 }
 
 :root {
@@ -36,6 +41,18 @@ body {
   --switch-bg-url: url(./Png/Sun.png);
 }
 
+footer {
+  text-align: center;
+  font-size: 14px;
+  padding: 24px 0;
+  color: var(--text-color);
+}
+
+footer a {
+text-decoration: none;
+  color: inherit
+}
+  
 body * {
   font-family: "Inter", sans-serif;
   font-style: normal;
@@ -43,7 +60,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   padding: 0 24px;
   margin: 56px auto 0px auto;
 }
