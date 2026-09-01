@@ -94,6 +94,12 @@ body {
   cursor: pointer;
 }
 
+/* Efeito de borda transparente ao passar o mouse sobre o botão do switch */
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
+  transition: outline 0.2s ease-in-out;
+}
+
 html.light #switch button,
 body.light #switch button {
   animation: slide-in 0.2s forwards;
