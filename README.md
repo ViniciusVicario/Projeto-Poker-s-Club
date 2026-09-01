@@ -36,7 +36,7 @@ O **Poker's Club Links** é um agregador de links personalizado (estilo Linktree
 
 Você pode visualizar e testar o projeto funcionando diretamente pelo navegador:
 
-- [Acessar Instagram Poker's Club](https://viniciusvicario.github.io/Projeto-Poker-s-Club/)
+- [Acessar Poker's Club](https://viniciusvicario.github.io/Projeto-Poker-s-Club/)
 
 ##  Licença
 Esse projeto está sob a licença MIT.
